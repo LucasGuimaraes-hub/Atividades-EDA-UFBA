@@ -1,1 +1,1 @@
-# EDA-Reposotory
+# EDA-Repository
